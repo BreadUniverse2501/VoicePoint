@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Frame</class>
+ <widget class="QFrame" name="Frame">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>782</width>
+    <height>560</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Frame</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>-510</x>
+     <y>-320</y>
+     <width>1641</width>
+     <height>1311</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>../../Downloads/DALL·E 2023-11-12 18.50.44 - Create a full-frame background with a vibrant orange color and a subtle noise effect throughout the entire area. The noise should be evenly distribute.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>false</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>320</y>
+     <width>231</width>
+     <height>271</height>
+    </rect>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>511</width>
+     <height>591</height>
+    </size>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>../../Downloads/DALL_E_2023-11-12_18.36.38_-_A_cartoon-style_hedgehog_with_an_emotionless_expression__featuring_neutral_eyes_and_a_straight__unsmiling_mouth._The_hedgehog_holds_a_microphone_in_a_-removebg-preview.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>0</y>
+     <width>421</width>
+     <height>181</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Perpetua</family>
+     <pointsize>47</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="layoutDirection">
+    <enum>Qt::LeftToRight</enum>
+   </property>
+   <property name="text">
+    <string>VOICEPOINT</string>
+   </property>
+   <property name="scaledContents">
+    <bool>false</bool>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>160</y>
+     <width>201</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Fixedsys</family>
+     <pointsize>30</pointsize>
+     <weight>50</weight>
+     <italic>false</italic>
+     <bold>false</bold>
+     <underline>false</underline>
+     <strikeout>false</strikeout>
+     <kerning>true</kerning>
+    </font>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Open Powerpoint</string>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Downloads/DALL_E_2023-11-12_18.36.38_-_A_cartoon-style_hedgehog_with_an_emotionless_expression__featuring_neutral_eyes_and_a_straight__unsmiling_mouth._The_hedgehog_holds_a_microphone_in_a_-removebg-preview.png</normaloff>../../Downloads/DALL_E_2023-11-12_18.36.38_-_A_cartoon-style_hedgehog_with_an_emotionless_expression__featuring_neutral_eyes_and_a_straight__unsmiling_mouth._The_hedgehog_holds_a_microphone_in_a_-removebg-preview.png</iconset>
+   </property>
+   <property name="checkable">
+    <bool>false</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>250</y>
+     <width>201</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Fixedsys</family>
+     <pointsize>30</pointsize>
+     <weight>50</weight>
+     <italic>false</italic>
+     <bold>false</bold>
+     <underline>false</underline>
+     <strikeout>false</strikeout>
+     <kerning>true</kerning>
+    </font>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Change Commands</string>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Downloads/DALL_E_2023-11-12_18.36.38_-_A_cartoon-style_hedgehog_with_an_emotionless_expression__featuring_neutral_eyes_and_a_straight__unsmiling_mouth._The_hedgehog_holds_a_microphone_in_a_-removebg-preview.png</normaloff>../../Downloads/DALL_E_2023-11-12_18.36.38_-_A_cartoon-style_hedgehog_with_an_emotionless_expression__featuring_neutral_eyes_and_a_straight__unsmiling_mouth._The_hedgehog_holds_a_microphone_in_a_-removebg-preview.png</iconset>
+   </property>
+   <property name="checkable">
+    <bool>false</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>340</y>
+     <width>201</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Fixedsys</family>
+     <pointsize>30</pointsize>
+     <weight>50</weight>
+     <italic>false</italic>
+     <bold>false</bold>
+     <underline>false</underline>
+     <strikeout>false</strikeout>
+     <kerning>true</kerning>
+    </font>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>FAQ</string>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Downloads/DALL_E_2023-11-12_18.36.38_-_A_cartoon-style_hedgehog_with_an_emotionless_expression__featuring_neutral_eyes_and_a_straight__unsmiling_mouth._The_hedgehog_holds_a_microphone_in_a_-removebg-preview.png</normaloff>../../Downloads/DALL_E_2023-11-12_18.36.38_-_A_cartoon-style_hedgehog_with_an_emotionless_expression__featuring_neutral_eyes_and_a_straight__unsmiling_mouth._The_hedgehog_holds_a_microphone_in_a_-removebg-preview.png</iconset>
+   </property>
+   <property name="checkable">
+    <bool>false</bool>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
